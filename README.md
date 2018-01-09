@@ -1,5 +1,5 @@
 ## Neptune.js
-Next generation tools for front-end data visualization​
+Next generation tools for data analysis.
 
 ### Experiments
 
